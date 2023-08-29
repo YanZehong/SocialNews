@@ -25,7 +25,7 @@ This dataset consists of news articles related to social issues derived from the
 | Dev     | 10           | 83           | 56          | 17          | 30            | 9             | 12          | 15          | 21          | 40         | 152       | 29        |
 | Test    | 12           | 97           | 48          | 29          | 37            | 11            | 16          | 14          | 31          | 38         | 137       | 24        |
 
-**Note**: +: positive, - :negative
+<sub>+ positive, - negative</sub>
 
 ## Citation
 
