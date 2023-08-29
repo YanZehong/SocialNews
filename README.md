@@ -19,7 +19,7 @@ This dataset consists of news articles related to social issues derived from the
 - {aspect} is in the article and aspect sentiment is negative (0)  
 
 ## Dataset Statistics
-| Dataset | Justice + | Justice - | Online + | Online - | Economic + | Economic - | Health + | Health - | Rights + |Rights - | Work + | Work - |
+| Dataset | Justice+| Justice-| Online+| Online-| Economic+| Economic-| Health+| Health-|Rights+|Rights-|Work+|Work-|
 |---------|--------------|--------------|-------------|-------------|---------------|---------------|-------------|-------------|-------------|------------|-----------|-----------|
 | Train   | 83           | 530          | 353         | 134         | 200           | 40            | 94          | 68          | 127         | 97         | 968       | 137       |
 | Dev     | 10           | 83           | 56          | 17          | 30            | 9             | 12          | 15          | 21          | 40         | 152       | 29        |
