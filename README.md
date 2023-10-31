@@ -1,6 +1,6 @@
 # SocialNews dataset for Aspect-based Sentiment Classification of Long Documents
 
-This dataset consists of news articles related to social issues derived from the PerSenT dataset (Bastan et al., 2020). We identify six implicit aspects, namely crime-justice, digital-online, economic issues, health, human rights, and work. Three independent annotators are asked to assess the sentiment towards these aspects and we use the majority vote as the ground truth sentiment. The Kappa inter-annotator agreement is 93.14%.
+This dataset consists of news articles related to social issues derived from the [PerSenT dataset (Bastan et al., 2020)](https://github.com/StonyBrookNLP/PerSenT/tree/main). We identify six implicit aspects, namely crime-justice, digital-online, economic issues, health, human rights, and work. Three independent annotators are asked to assess the sentiment towards these aspects and we use the majority vote as the ground truth sentiment. The Kappa inter-annotator agreement is 93.14%.
 
 ## Data Fields
 - `id`: document id  
