@@ -32,8 +32,12 @@ This dataset consists of news articles related to social issues derived from the
 If you find this work useful, please cite as following:
 
 ```
-@inproceedings{
-  
+@inproceedings{yan-etal-2024-modeling,
+  title={Modeling Complex Interactions in Long Documents for Aspect-Based Sentiment Analysis},
+  author={Yan, Zehong and Hsu, Wynne and Lee, Mong-Li and Bartram-Shaw, David},
+  booktitle={Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, \& Social Media Analysis},
+  pages={23--34},
+  year={2024}
 }
 ```
 
